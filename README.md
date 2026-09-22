@@ -8,15 +8,15 @@
 
 <br>
 
-##  Sobre mim
+## Sobre mim
 
 Sou o **Júlio**, dev que leva o código a sério e o resto da vida nem tanto.
-Gosto de entender como as coisas funcionam por baixo do capô — do front que o usuário vê até a query que sofre lá no banco às 2h da manhã.
+Gosto de entender como as coisas funcionam por baixo do capô do front que o usuário vê até a query que sofre lá no banco às 2h da manhã.
 
 - Trabalhando com **HTML, CSS, JS, Java, Python e SQLite**
 - Sempre com uma aba do Stack Overflow aberta (ninguém está livre)
 - Foco em escrever código que funciona *e* que alguém consegue entender depois
-- Curioso por natureza — se tem um bug estranho, eu quero saber o motivo
+- Curioso por natureza se tem um bug estranho, eu quero saber o motivo
 
 <br>
 
@@ -31,7 +31,7 @@ Gosto de entender como as coisas funcionam por baixo do capô — do front que o
 <br>
 
 <details>
-<summary><b>Detalhes por categoria</b> (clique para expandir)</summary>
+<summary> <b>Detalhes por categoria</b> (clique para expandir)</summary>
 <br>
 
 **Linguagens**
@@ -53,61 +53,29 @@ Gosto de entender como as coisas funcionam por baixo do capô — do front que o
 
 <br>
 
-## Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BUGU1515&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+username=BUGU1515&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BUGU1515&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BUGU1515&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
 </div>
 
 <br>
 
-## Projetos em destaque
-
-> Fixe seus repositórios favoritos na aba **Customize your pins** do seu perfil — eles aparecem automaticamente aqui embaixo. Enquanto isso, aqui vai um espaço reservado pra você preencher:
+##  Atividade recente
 
 <div align="center">
 
-<a href="https://github.com/BUGU1515?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BUGU1515&repo=NOME-DO-REPO-1&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/BUGU1515?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BUGU1515&repo=NOME-DO-REPO-2&theme=tokyonight&hide_border=true"/>
-</a>
 
 </div>
 
-<sub>Troque `NOME-DO-REPO-1` e `NOME-DO-REPO-2` pelos nomes reais dos seus repositórios.</sub>
+<sub> Essa cobrinha verde precisa de um workflow do GitHub Actions pra funcionar <a href="https://renovaterravoluntariado.netlify.app">.</sub>
 
 <br>
 
-## Atividade recente
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/BUGU1515/BUGU1515/output/github-contribution-grid-snake.svg" width="100%"/>
-
-</div>
-
-<sub>Essa cobrinha verde precisa de um workflow do GitHub Actions pra funcionar — <a href="https://github.com/Platane/snk">veja aqui como configurar em 2 minutos</a>.</sub>
-
-<br>
-
-## Ritmo de contribuições
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BUGU1515&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
-<br>
-
-## Vamos nos conectar
+##  Vamos nos conectar
 
 <div align="center">
 
