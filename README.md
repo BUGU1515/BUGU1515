@@ -8,19 +8,19 @@
 
 <br>
 
-## 🧭 Sobre mim
+##  Sobre mim
 
 Sou o **Júlio**, dev que leva o código a sério e o resto da vida nem tanto.
 Gosto de entender como as coisas funcionam por baixo do capô — do front que o usuário vê até a query que sofre lá no banco às 2h da manhã.
 
-- 🔭 Trabalhando com **HTML, CSS, JS, Java, Python e SQLite**
-- 🧠 Sempre com uma aba do Stack Overflow aberta (ninguém está livre)
-- 🎯 Foco em escrever código que funciona *e* que alguém consegue entender depois
-- ⚡ Curioso por natureza — se tem um bug estranho, eu quero saber o motivo
+- Trabalhando com **HTML, CSS, JS, Java, Python e SQLite**
+- Sempre com uma aba do Stack Overflow aberta (ninguém está livre)
+- Foco em escrever código que funciona *e* que alguém consegue entender depois
+- Curioso por natureza — se tem um bug estranho, eu quero saber o motivo
 
 <br>
 
-## 🛠️ Stack & Ferramentas
+## Stack & Ferramentas
 
 <div align="center">
 
@@ -31,7 +31,7 @@ Gosto de entender como as coisas funcionam por baixo do capô — do front que o
 <br>
 
 <details>
-<summary>📦 <b>Detalhes por categoria</b> (clique para expandir)</summary>
+<summary><b>Detalhes por categoria</b> (clique para expandir)</summary>
 <br>
 
 **Linguagens**
@@ -53,7 +53,7 @@ Gosto de entender como as coisas funcionam por baixo do capô — do front que o
 
 <br>
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
@@ -66,7 +66,7 @@ Gosto de entender como as coisas funcionam por baixo do capô — do front que o
 
 <br>
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 > Fixe seus repositórios favoritos na aba **Customize your pins** do seu perfil — eles aparecem automaticamente aqui embaixo. Enquanto isso, aqui vai um espaço reservado pra você preencher:
 
@@ -81,11 +81,11 @@ Gosto de entender como as coisas funcionam por baixo do capô — do front que o
 
 </div>
 
-<sub>💡 Troque `NOME-DO-REPO-1` e `NOME-DO-REPO-2` pelos nomes reais dos seus repositórios.</sub>
+<sub>Troque `NOME-DO-REPO-1` e `NOME-DO-REPO-2` pelos nomes reais dos seus repositórios.</sub>
 
 <br>
 
-## 🐍 Atividade recente
+## Atividade recente
 
 <div align="center">
 
@@ -93,11 +93,11 @@ Gosto de entender como as coisas funcionam por baixo do capô — do front que o
 
 </div>
 
-<sub>⚙️ Essa cobrinha verde precisa de um workflow do GitHub Actions pra funcionar — <a href="https://github.com/Platane/snk">veja aqui como configurar em 2 minutos</a>.</sub>
+<sub>Essa cobrinha verde precisa de um workflow do GitHub Actions pra funcionar — <a href="https://github.com/Platane/snk">veja aqui como configurar em 2 minutos</a>.</sub>
 
 <br>
 
-## 📈 Ritmo de contribuições
+## Ritmo de contribuições
 
 <div align="center">
 
@@ -107,7 +107,7 @@ Gosto de entender como as coisas funcionam por baixo do capô — do front que o
 
 <br>
 
-## 🤝 Vamos nos conectar
+## Vamos nos conectar
 
 <div align="center">
 
